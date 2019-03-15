@@ -1,0 +1,4 @@
+#Fri Mar 15 19:00:11 EET 2019
+base.0=/Users/vladyslavcherednichenko/Desktop/PixioUnity/Temp/gradleOut/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
